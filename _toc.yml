@@ -1,9 +1,15 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+#rsync -rav 'ssh -e 32132' BBS root@144.34.186.240:/root/mybook
+
 format: jb-book
 root: intro
 chapters:
+- file: beforestart
+- file: rnaseq
+- file: singlecell
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: posthoc

@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Welcome to Basic Bioinformatics Skill (BBS)
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+这里主要介紹成为一名基础的生物信息學家該掌握的一些技能,包括技术上的方法/操作,实际工作流程中常用的工具和網站以及一些理论知识等,在开始学习之前, 希望大家能夠掌握一种现代的编程語言(因爲BBS中用到的Python和R是十分简单的)以及基本命令行的服务器操作,有條件的可以進一步去瞭解HTML/CSS等網絡编程需要的知识(对于获取數據來說是必要的).如果没有掌握也无需担心，我们会有一个简单的章节来快速入门这些内容
 
-Check out the content pages bundled with this sample book to see more.
+
 
 ```{tableofcontents}
 ```
